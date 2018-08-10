@@ -1,0 +1,35 @@
+{
+  "BTN": {
+    "SAVE": "Save",
+    "SUBMIT": "Submit",
+    "NEXT":"Next",
+    "BACK": "Back"
+  },
+  "HEADER": {
+    "SETTINGS": "Settings",
+    "SEARCH": "Search",
+    "FILTER": "Filter"
+  },
+
+  "REGISTRATION": {
+    "TITLE": "User registration",
+    "EMAIL": "Enter email",
+    "EMAIL_PLACEHOLDER": "example@example.com",
+    "CHOOSE_LANG": "Choose language",
+    "CHOOSE_TIMEZONE": "Choose timezone",
+    "AGREEMENTS": "Terms and conditions",
+    "AGREELABEL": "I accept <a href=\"#\">privacy policy disclaimers</a> and <a href=\"#\">conditions of this service</a>"
+  },
+
+  "SETTINGS": {
+    "TITLE": "User settings",
+    "LANGUAGE": "Language",
+    "TIMEZONE": "Timezone"
+  },
+
+  "ERRORS": {
+    "PAGE_NOT_FOUND": "Page not found",
+    "PAGE_NOT_FOUND_DESCR": "Sorry, seems we don't found the page :("
+  }
+
+}

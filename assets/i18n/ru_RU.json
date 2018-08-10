@@ -1,0 +1,35 @@
+{
+  "BTN": {
+    "SAVE": "Сохранить",
+    "SUBMIT": "Отправить",
+    "NEXT":"Далее",
+    "BACK": "Назад"
+  },
+  "HEADER": {
+    "SETTINGS": "Настройки",
+    "SEARCH": "Поиск",
+    "FILTER": "Фильтр"
+  },
+
+  "REGISTRATION": {
+    "TITLE": "Регистрация пользователя",
+    "EMAIL": "Электронная почта",
+    "EMAIL_PLACEHOLDER": "example@example.com",
+    "CHOOSE_LANG": "Выберите язык",
+    "CHOOSE_TIMEZONE": "Выберите часовой пояс",
+    "AGREEMENTS": "Правила использования",
+    "AGREELABEL": "Я принимаю <a href=\"#\">отказ от отвественности</a> и <a href=\"#\">правила использования сервиса</a>"
+  },
+
+  "SETTINGS": {
+    "TITLE": "Настройки пользователя",
+    "LANGUAGE": "Язык",
+    "TIMEZONE": "Часовой пояс"
+  },
+
+  "ERRORS": {
+    "PAGE_NOT_FOUND": "Страница не найдена",
+    "PAGE_NOT_FOUND_DESCR": "Извините, но похоже что мы не может найти эту страницу :("
+  }
+
+}
