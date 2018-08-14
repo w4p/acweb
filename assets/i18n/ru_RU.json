@@ -29,7 +29,11 @@
 
   "OFTO": {
     "FILTER_GROUP_TITLE": "Категория",
-    "FILTER_PROBABILITY_TITLE": "Вероятность"
+    "FILTER_PROBABILITY_TITLE": "Вероятность",
+
+    "PROBABILITY": "Вероятность",
+    "PREDICTION": "Прогноз",
+    "MIN": "мин"
   },
 
   "ERRORS": {
