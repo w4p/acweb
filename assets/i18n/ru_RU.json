@@ -27,9 +27,15 @@
     "TIMEZONE": "Часовой пояс"
   },
 
+  "OFTO": {
+    "FILTER_GROUP_TITLE": "Категория",
+    "FILTER_PROBABILITY_TITLE": "Вероятность"
+  },
+
   "ERRORS": {
     "PAGE_NOT_FOUND": "Страница не найдена",
-    "PAGE_NOT_FOUND_DESCR": "Извините, но похоже что мы не может найти эту страницу :("
+    "PAGE_NOT_FOUND_DESCR": "Извините, но похоже что мы не может найти эту страницу :(",
+    "IMAGE_NOT_LOADED": "Ошибка во время загрузки изображения :("
   }
 
 }

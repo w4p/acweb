@@ -27,9 +27,19 @@
     "TIMEZONE": "Timezone"
   },
 
+  "OFTO": {
+    "FILTER_GROUP_TITLE": "Group",
+    "FILTER_PROBABILITY_TITLE": "Probability",
+
+    "PROBABILITY": "Probability",
+    "PREDICTION": "Prediction",
+    "MIN": "min"
+  },
+
   "ERRORS": {
     "PAGE_NOT_FOUND": "Page not found",
-    "PAGE_NOT_FOUND_DESCR": "Sorry, seems we don't found the page :("
+    "PAGE_NOT_FOUND_DESCR": "Sorry, seems we don't found the page :(",
+    "IMAGE_NOT_LOADED": "Error while image loading :("
   }
 
 }
