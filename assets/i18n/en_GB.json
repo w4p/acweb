@@ -3,9 +3,13 @@
     "SAVE": "Save",
     "SUBMIT": "Submit",
     "NEXT":"Next",
-    "BACK": "Back"
+    "BACK": "Back",
+    "LOGIN": "Log in",
+    "LOGOUT": "Logout",
+    "SIGNUP": "Sign up"
   },
   "HEADER": {
+    "USERNAME": "username",
     "SETTINGS": "Settings",
     "SEARCH": "Search",
     "FILTER": "Filter"
@@ -34,6 +38,16 @@
     "PROBABILITY": "Probability",
     "PREDICTION": "Prediction",
     "MIN": "min"
+  },
+
+  "LOGIN": {
+    "TITLE": "Access Autochartist",
+    "FORM": {
+      "USERNAME": "Username",
+      "PASSWORD": "Password"
+    },
+    "REGISTER.TEXT1": "Don't have an account. Please follow the ",
+    "REGISTER.TEXT2": "registration"
   },
 
   "ERRORS": {
