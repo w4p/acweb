@@ -44,7 +44,8 @@
     "TITLE": "Access Autochartist",
     "FORM": {
       "USERNAME": "Username",
-      "PASSWORD": "Password"
+      "PASSWORD": "Password",
+      "BROKERID": "Broker ID"
     },
     "REGISTER.TEXT1": "Don't have an account. Please follow the ",
     "REGISTER.TEXT2": "registration"
