@@ -48,7 +48,8 @@
       "BROKERID": "Broker ID"
     },
     "REGISTER.TEXT1": "Don't have an account. Please follow the ",
-    "REGISTER.TEXT2": "registration"
+    "REGISTER.TEXT2": "registration",
+    "FAILED": "The username or password is incorrect"
   },
 
   "ERRORS": {
